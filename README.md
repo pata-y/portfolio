@@ -3,7 +3,6 @@
 <link rel="stylesheet" href="informacja.css"/>
 
 
-```html
 <!DOCTYPE html>
 <html lang="pl">
 <head>
@@ -118,4 +117,3 @@
 
 </body>
 </html>
-```
