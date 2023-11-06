@@ -4,4 +4,3 @@
 
 
 
-<link rel="html" href="portfolio.html"/>
